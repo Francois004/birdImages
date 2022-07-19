@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.pos {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  align-items: bottom;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 60vh !important;
+  max-width: 80% !important;
+}
